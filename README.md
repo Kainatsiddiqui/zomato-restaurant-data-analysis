@@ -183,4 +183,5 @@ The complete set of charts is available in the **images/** folder.
 
 ## 👩‍💻 Author
 **Kainat Siddiqui**
-Aspiring Data Analyst | Python | SQL | Power BI | Pandas | NumPy | Matplotlib
+
+If you found this project useful, feel free to ⭐ the repository.
